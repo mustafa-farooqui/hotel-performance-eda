@@ -27,18 +27,6 @@ This project aims to address these challenges using data analysis techniques.
 - Understanding guest booking behavior and preferences
 - Identification of key drivers affecting hotel performance
 
----
-
-## Dataset Information
-
-- **135,000+ hotel booking records**
-- Data stored in a  **MySQL database**
-- Retrieved using **SQLAlchemy**
-- Multiple cities and hotel categories included
-- Features include bookings, cancellations, revenue, ratings, and guest-related attributes
-
----
-
 ## Tools and Technologies
 
 - Python
